@@ -1,15 +1,15 @@
 # Hi, I'm Tamar Reizner! 👋
-### Full Stack Developer & AI Architecture Specialist
+### Full Stack Developer | AI-Driven Applications
 
-I am a highly motivated Full Stack Developer with an analytical mindset and a passion for continuous learning. I specialize in building robust enterprise applications, optimizing databases, and integrating cutting-edge Generative AI solutions into traditional software architectures.
+I am a highly motivated Full Stack Developer with an analytical mindset and a passion for continuous learning. I specialize in building robust enterprise applications, optimizing databases, and integrating Generative AI components into modern software architectures.
 
 ---
 
 ## 🚀 About Me
 
 * 💻 **Currently:** Developing and maintaining enterprise systems in a .NET environment during my practical training at the Income Tax Commission.
-* 🎓 **Education:** Software Engineering Degree (Mahat) alongside advanced practical studies in AI Architecture and Generative AI.
-* ⚡ **Tech Passion:** Bridging the gap between powerful backend logic and pixel-perfect frontend experiences, while leveraging AI agents to boost system efficiency.
+* 🎓 **Education:** Software Engineering Degree (Mahat) alongside advanced practical studies in AI and Generative AI application development.
+* ⚡ **Tech Passion:** Bridging the gap between powerful backend logic and pixel-perfect frontend experiences, while leveraging AI tools to boost system efficiency.
 
 ---
 
