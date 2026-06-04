@@ -1,6 +1,7 @@
 # Hi, I'm Tamar Reizner! 👋
-### Full Stack Developer | AI-Driven Applications
+### Full Stack Developer
 
+I am a highly motivated Full Stack Developer with an analytical mindset and a passion for continuous learning. I specialize in building robust enterprise applications, optimizing databases, and integrating Generative AI components into modern software architectures to boost system efficiency.
 I am a highly motivated Full Stack Developer with an analytical mindset and a passion for continuous learning. I specialize in building robust enterprise applications, optimizing databases, and integrating Generative AI components into modern software architectures.
 
 ---
